@@ -2,6 +2,10 @@
 
 Make your GitHub history go back as far as you want.
 
+#### Attention!
+
+#### This script will perform commits on all dates of the year, leaving the green card complete. If you only want to commit on specific dates, you will find links to other versions of the script at the bottom of the page
+
 ![image](IMG/year-commit.png)
 
 # First step
